@@ -1,0 +1,50 @@
+.sample-comments{
+    display: flex;
+    margin-top: 30px;
+ 
+}
+
+.likeanddislike{
+    display: flex;
+    margin-top: 15px;
+    cursor: pointer;
+}
+
+.channel-comment{
+    font-family: roboto;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.channel-comment span{
+    color: rgb(145, 141, 141);
+    font-weight: normal;
+    padding-left: 5px;
+}
+
+.the-comment{
+    font-family: roboto;
+    font-size: 14px;
+    margin-top: 7px;
+
+}
+
+.likeanddislike p{
+    color: #5f5f5f;
+    font-size: 13px;
+    font-family: roboto;
+    margin-right: 10px;
+}
+
+
+.likeanddislike svg{
+      color: #918d8d;
+    font-size: 17px;
+    margin-right: 7px;
+}
+
+.reply-text{
+    font-weight: 500;
+    padding-left: 10px;
+}

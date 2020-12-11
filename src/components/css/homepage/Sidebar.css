@@ -1,0 +1,46 @@
+.sidebar{
+    flex: 0.18;
+    padding-top: 10px;
+}
+
+
+.sidebar-home{
+    display: flex;
+    align-items: center;
+    padding-left: 1.5rem;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    cursor: pointer;
+}
+
+.sidebar-home:hover{
+    background-color: rgb(241, 240, 240);
+}
+
+.sidebar-home h2{
+    font-size: 14px;
+    color: black;
+    font-weight: normal;
+    font-family: roboto;
+    padding-left: 23px;
+}
+
+.home___icon{
+    color: rgb(104, 103, 103);
+  
+}
+
+.home___iconb{
+    color: rgb(104, 103, 103);
+}
+
+.home-menu{
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+}
+
+.library-menu{
+    padding-top: 12px;
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+}

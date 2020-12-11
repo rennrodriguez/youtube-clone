@@ -1,0 +1,75 @@
+.navbar-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 25px;
+    background-color: white;
+}
+
+.youtube___logo{
+    height: 40px;
+    object-fit: contain;
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.avatar___icon{
+    width: 35px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.left-container{
+    display: flex;
+    align-items: center;
+    color: rgb(104, 103, 103);
+}
+
+.center-container{
+    display: flex;
+    align-items: center;
+    border: solid 1px lightgray;
+    border-radius: 0px 2px 2px;
+    width: 48%;
+    height: 30px;
+}
+
+.center-container > input{
+    flex: 1;
+    border: none;
+    font-size: 16px;
+    padding-left: 12px;
+    font-family: Roboto;
+    color: gray;
+    outline: none;
+}
+
+.button-container{
+    width: 60px;
+    background-color: #f8f6f6;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    border-left: 1px solid lightgray;
+}
+
+.search___button{
+    color: gray;
+    width: 20px !important;
+    cursor: pointer;
+    
+}
+
+.right-container{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.right___icon{
+    margin-right: 25px;
+    color: rgb(104, 103, 103);
+    cursor: pointer;
+}

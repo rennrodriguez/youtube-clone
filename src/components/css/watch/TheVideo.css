@@ -1,0 +1,28 @@
+.the-video{
+    display: grid;
+    grid-template-rows: 522px auto auto 1fr;
+    height: auto;
+}
+
+.youtube___video{
+   width: 100%;
+   height: 100%;
+
+   
+  
+}
+
+.youtube-video{
+    background-color: pink;
+    margin-left: 35px;
+    margin-top: 20px;
+    margin-right: 15px;
+    margin-bottom: 25px;
+    
+}
+
+.title{
+
+    margin-left: 35px;
+    margin-right: 15px;
+}

@@ -1,0 +1,51 @@
+.video___thumbnail{
+    width: 250px;
+    
+}
+
+.video___avatar{
+    border-radius: 50%;
+    width: 35px;
+    align-self: start;
+}
+
+.video-card{
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+.video-details{
+  display: flex;
+  padding-top: 10px;
+}
+
+.video___title{
+    width: 200px;
+    font-weight: 500;
+    font-family: roboto;
+    font-size: 14px;
+    padding-bottom: 5px;
+   
+}
+
+.video___channel{
+    font-family: roboto;
+    font-size: 14px;
+    color: gray;
+}
+
+.details{
+    padding-left: 10px;
+}
+
+.video-thumbnails{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    margin-left: 20px;
+   justify-content: center;
+   
+}
